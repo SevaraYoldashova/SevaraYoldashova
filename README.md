@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SevaraYoldashova/SevaraYoldashova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Sevara
 
-Here are some ideas to get you started:
+### Backend Engineer • Go • Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building scalable backend systems, clean APIs and distributed applications.
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 💻 Backend Engineer passionate about backend development
+- 🌱 Currently learning **Distributed Systems, Networking & System Design**
+- ⚡ Working with **Go, Node.js, PostgreSQL and Redis**
+- 🐳 Interested in Docker, Linux and Cloud technologies
+- 🎯 My goal is to become a world-class Backend Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=go,nodejs,ts,postgres,mysql,redis,docker,linux,git,github,vscode&perline=6" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Distributed Systems
+- Microservices
+- gRPC
+- Kubernetes
+- System Design
+
+---
+
+## 📫 Contact
+
+- Telegram: **@sev21_ara**
